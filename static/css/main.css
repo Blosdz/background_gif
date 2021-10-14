@@ -1,0 +1,32 @@
+*{
+    background-color:black;
+    cursor:url("/static/imgs/cursor.gif"),auto;
+    font-size: 15px;
+    letter-spacing: 3px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: aliceblue;
+    
+}
+img{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    width: 720px;
+    height: 1080px;
+        margin-bottom: -200px;
+}
+a{
+    
+    cursor:url("/static/imgs/cursor2.gif"),default;
+}
+body{
+    color: #c1b492;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    padding: 30px;
+}
